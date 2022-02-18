@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dagger2App</string>
+    <string name="receive_button">Receive button</string>
+    <string name="showtxt">showTxt</string>
 </resources>
